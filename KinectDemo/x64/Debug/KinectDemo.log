@@ -1,0 +1,54 @@
+﻿BodyRenderer.obj : error LNK2019: 无法解析的外部符号 __imp_GetClientRect，函数 "public: long __cdecl BodyRenderer::Draw(struct IBody * *,int)" (?Draw@BodyRenderer@@QEAAJPEAPEAUIBody@@H@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_GetClientRect
+BodyRenderer.obj : error LNK2019: 无法解析的外部符号 __imp_GetWindowRect，函数 "private: long __cdecl BodyRenderer::EnsureResources(void)" (?EnsureResources@BodyRenderer@@AEAAJXZ) 中引用了该符号
+KinectBody.obj : error LNK2001: 无法解析的外部符号 __imp_GetWindowRect
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_TranslateMessage，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_TranslateMessage
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_DispatchMessageW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_DispatchMessageW
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_PeekMessageW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_PostQuitMessage，函数 "public: __int64 __cdecl KinectBody::DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?DlgProc@KinectBody@@QEAA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_PostQuitMessage
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_RegisterClassW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_UnregisterClassW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_DestroyWindow，函数 "public: __int64 __cdecl KinectBody::DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?DlgProc@KinectBody@@QEAA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_DestroyWindow
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_ShowWindow，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_ShowWindow
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_MoveWindow，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_CreateDialogParamW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_GetDlgItem，函数 "public: __int64 __cdecl KinectBody::DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?DlgProc@KinectBody@@QEAA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_SetDlgItemTextW，函数 "void __cdecl HandleBodyFrame(struct IBody * *,int)" (?HandleBodyFrame@@YAXPEAPEAUIBody@@H@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_DefDlgProcW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_keybd_event，函数 "void __cdecl down(int)" (?down@@YAXH@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_mouse_event，函数 "void __cdecl click(void)" (?click@@YAXXZ) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_EnableWindow，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_GetSystemMetrics，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_SetForegroundWindow，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_MessageBoxW，函数 "public: __int64 __cdecl KinectBody::DlgProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?DlgProc@KinectBody@@QEAA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_GetCursorPos，函数 "void __cdecl click(void)" (?click@@YAXXZ) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_GetWindowLongPtrW，函数 "public: static __int64 __cdecl KinectBody::MessageRouter(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?MessageRouter@KinectBody@@SA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_SetWindowLongPtrW，函数 "public: static __int64 __cdecl KinectBody::MessageRouter(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?MessageRouter@KinectBody@@SA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_LoadCursorW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_LoadCursorW
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_LoadIconW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2001: 无法解析的外部符号 __imp_LoadIconW
+KinectBody.obj : error LNK2019: 无法解析的外部符号 __imp_IsDialogMessageW，函数 "public: int __cdecl KinectBody::Run(struct HINSTANCE__ *,struct HWND__ *)" (?Run@KinectBody@@QEAAHPEAUHINSTANCE__@@PEAUHWND__@@@Z) 中引用了该符号
+KinectBody.obj : error LNK2019: 无法解析的外部符号 GetDefaultKinectSensor，函数 "void __cdecl track_mouse(void)" (?track_mouse@@YAXXZ) 中引用了该符号
+KinectDevice.obj : error LNK2001: 无法解析的外部符号 GetDefaultKinectSensor
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_LoadStringW，函数 wWinMain 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_GetStockObject，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_GetMessageW，函数 wWinMain 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_SendMessageW，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_DefWindowProcW，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_RegisterClassExW，函数 "unsigned short __cdecl MyRegisterClass(struct HINSTANCE__ *)" (?MyRegisterClass@@YAGPEAUHINSTANCE__@@@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_CreateWindowExW，函数 "int __cdecl InitInstance(struct HINSTANCE__ *,int)" (?InitInstance@@YAHPEAUHINSTANCE__@@H@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_DialogBoxParamW，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_EndDialog，函数 "__int64 __cdecl About(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?About@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_LoadAcceleratorsW，函数 wWinMain 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_TranslateAcceleratorW，函数 wWinMain 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_UpdateWindow，函数 "int __cdecl InitInstance(struct HINSTANCE__ *,int)" (?InitInstance@@YAHPEAUHINSTANCE__@@H@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_BeginPaint，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+KinectDemo.obj : error LNK2019: 无法解析的外部符号 __imp_EndPaint，函数 "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 中引用了该符号
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\lib\x86\kinect20.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\x64\Debug\KinectGesture.exe : fatal error LNK1120: 42 个无法解析的外部命令

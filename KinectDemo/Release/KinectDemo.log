@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  BodyRenderer.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\BodyRenderer.h(3,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  Gesture.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  GestureDetection.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  GestureWrapper.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  ImageRenderer.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\ImageRenderer.cpp(109,26): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\ImageRenderer.cpp(110,26): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\ImageRenderer.cpp(111,26): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\ImageRenderer.cpp(112,26): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+  KinectBody.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\BodyRenderer.h(3,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  KinectDemo.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\BodyRenderer.h(3,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  KinectDevice.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\BodyRenderer.h(3,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  SwipeBackwardGesture.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  SwipeForwardGesture.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  SwipeLeftGesture.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
+  SwipeRightGesture.cpp
+C:\Users\25873\Desktop\大三下\智能机器人应用设计\视觉\7 智能视觉\实验 2 人体骨骼及动作识别\完整源码\KinectGesture\KinectDemo\Gesture.h(2,10): fatal error C1083: 无法打开包括文件: “Kinect.h”: No such file or directory
