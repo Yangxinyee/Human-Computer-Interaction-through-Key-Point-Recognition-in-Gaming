@@ -1,0 +1,21 @@
+﻿  KinectBody.cpp
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(194,15): warning C4101: “wmEvent”: 未引用的局部变量
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(194,9): warning C4101: “wmId”: 未引用的局部变量
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(313,59): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(313,59): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(313,88): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(313,88): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(314,62): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(314,62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(314,93): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(314,93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(335,16): error C2374: “mouseX”: 重定义；多次初始化
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(321): message : 参见“mouseX”的声明
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(336,16): error C2374: “mouseY”: 重定义；多次初始化
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(322): message : 参见“mouseY”的声明
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(340,105): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(340,81): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\24372\Desktop\study\大三下\智能机器人应用设计\源码\完整源码\KinectGesture\KinectDemo\KinectBody.cpp(395,5): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  KinectDemo.cpp
+  SwipeRightGesture.cpp
+  正在生成代码...
