@@ -146,7 +146,8 @@ Returns the smoothed HandRight coordinate.
 
 ## Get Started!
 
-**Please refer to other documents in this Repositories for the use of Kinect equipment (Chinese version only).**
+**Please refer to other documents in this Repositories for the use of Kinect equipment (Chinese version only). https://github.com/Yangxinyee/KinectV2-Guidance-Documentation**
+
 
 1. Open visual studio 2022 and open the project file.
 
