@@ -45,7 +45,7 @@ Game: *AimLab*
 
 Kinect 2.0 can track up to 25 bone points in six people simultaneously.
 
-<img src="https://i.imgur.com/HH6FCgy.png" width="70%">
+<img src="https://i.imgur.com/HH6FCgy.png" width="50%">
 
 ### Character Control
 
@@ -74,6 +74,7 @@ Therefore, we take the length from the neck to the head as the unit length, and 
 Secondly, in order to make the follow-up mouse tracking process as stable as possible, the relatively stable point, namely the **HandRight** point, is identified for binding mapping with the mouse.
 
 **In addition, the specific formula for establishing the mapping relationship is:**
+
 $$
 x1/XB=x2/XS
 $$
@@ -82,7 +83,7 @@ $$
 y1/YB=y2/YS
 $$
 
-<img src="https://i.imgur.com/ZDT89wy.png" width="80%">
+<div align=center><img src="https://i.imgur.com/ZDT89wy.png" width="50%"></div>
 
 ### Mouse tracking control
 
