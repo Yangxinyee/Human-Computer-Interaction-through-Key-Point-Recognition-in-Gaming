@@ -1,4 +1,4 @@
-# Motion-sensing Game Control System Based On Bone Point Recognition
+# Human-Computer Interaction through Bone Point Recognition in Gaming
 
 ## Introduction
 
