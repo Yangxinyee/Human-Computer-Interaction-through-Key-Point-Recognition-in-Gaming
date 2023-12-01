@@ -1,4 +1,4 @@
-# Human-Computer Interaction through Bone Point Recognition in Gaming
+# Human-Computer Interaction through Key Point Recognition in Gaming
 
 ## Introduction
 
